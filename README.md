@@ -1,2 +1,2 @@
 # advertise
-something related to computer advertising.
+something related to computing advertising.
